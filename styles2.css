@@ -7,9 +7,9 @@ body {
 
 .titulo {
 
-    height: 180px;;
+    height: 15rem;
     width: 70%;
-    margin-top: 10px;
+    margin-top: 0;
     margin-left: 15%;
     margin-right: 15%;
 
@@ -64,7 +64,7 @@ h1 {
     padding: 50px;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 80px;
+    font-size: 5rem;
     font-style: italic;
     font-weight: 800;
     color: rgb(0, 0, 0);
@@ -85,4 +85,6 @@ a {
   color: inherit;      /* Usa el color del texto padre */
   text-decoration: none; /* Quita el subrayado */
 }
+
+
 
