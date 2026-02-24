@@ -94,3 +94,62 @@ a {
   text-decoration: none; /* Quita el subrayado */
 }
 
+
+/*****************************************************************/
+
+.notas {
+    background-color: #d8c2ac;
+    text-align:left;
+    margin: 10px;
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: 10px;
+    border-color: #665544;
+    border-style: solid;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-left: 20px solid  #665544;
+}
+
+.fecha {
+    font-size: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    padding: 10px;
+    padding-top: 10px;
+    margin: 40px;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 1px;
+    word-spacing: 6px;
+    color: rgb(78, 68, 68);
+}
+
+.introduccion {
+
+    height: 200px;;
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 0px;
+
+}
+
+.t1 {
+    padding: 10px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 800;
+    color: #665544;
+}
+
+
